@@ -58,3 +58,10 @@ def get_orbit():
     return {
         "response": "https://sites.google.com/workday.com/pt-early-talent-orbit/home"
     }
+
+
+@app.route('/covidpdf', methods=['POST'])
+def get_s3_pdf():
+    return {
+        "response": "https://alfredstorage01.s3.eu-west-1.amazonaws.com/onSite.pdf"
+    }
