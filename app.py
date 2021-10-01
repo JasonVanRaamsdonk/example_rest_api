@@ -18,12 +18,12 @@ def index():
 def get_help():
     return {
         "response": "Enter a command for a Workday Internal Service:\n"
-                    "- `orbit'\n"
-                    "- `nexus'\n"
-                    "-'workspace'\n"
-                    "-'ergotool'\n"
-                    "-'zoom'\n"
-                    "-'peakon'\n"
+                    "- `orbit`\n"
+                    "- `nexus`\n"
+                    "- `workspace`\n"
+                    "- `ergotool`\n"
+                    "- `zoom`\n"
+                    "- `peakon`\n"
     }
 
 
