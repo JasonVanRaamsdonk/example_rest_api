@@ -7,6 +7,6 @@ _Part of Workday Hackathon_
 
 # `commands`
 
-`orbit` - responds with a link to the orbit.
-`nexus`- responds with a link to Federated Nexus Search.
+- `orbit` - responds with a link to the orbit.
+- `nexus`- responds with a link to Federated Nexus Search.
 
