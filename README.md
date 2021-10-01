@@ -1,5 +1,7 @@
 # Workday Resource Link API
 
+All infrastructure was set up leveraging AWS free tier resources.
+
 _Part of Workday Hackathon_
 
 - A microservice written in Python to interact with a Slack bot written in go.
@@ -7,6 +9,9 @@ _Part of Workday Hackathon_
 
 # `commands`
 
-- `orbit` - responds with a link to the orbit.
-- `nexus`- responds with a link to Federated Nexus Search.
-
+- `orbit` - responds with a link to the Awesome Orbit Website 💫
+- `nexus`- responds with a link to Federated Nexus Search ❤️
+- `workspace` - responds with a link to Workday workspace 😎
+- `peacon` - responds with a link to the Peacon home page 🤗
+- `compass` - responds with a link to P&P Compass. 💬
+- `ergotool` - responds with a link the Workday Ergonomics Tool 🙉

@@ -79,5 +79,5 @@ def get_orbit():
 @app.route('/covidpdf', methods=['POST'])
 def get_s3_pdf():
     return {
-        "response": f"{jsonObject['orbit']}"
+        "response": f"{jsonObject['covidpdf']}"
     }
